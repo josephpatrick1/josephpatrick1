@@ -1,5 +1,18 @@
 <h1 align="center">Olá 👋, eu sou Joseph Patrick</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
+<h4 align="center">   </h4>
+
+
+<h3 align="left">Sobre mim:</h3>
+
+<p>👨‍⚕️ Iniciei meus estudos em 2010</p>
+<p>🔭 Membro do Github desde 2015</p>
+<p>📚 Finalizando faculdade Gestão de TI</p>
+<p>👨‍💻 Atualmente crio Webapps utilizando Nuxt (vue), Next (react), Nodejs.</p>
+<p>🛠️ Sou adepto ao DevOps.</p>
+<p>🇹🇸 Linguagem favorita Typescript.</p>
+<p>🌐 Também faço alguns sites com Elementor, e plugins de Wordpress com PHP.</p>
+
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
